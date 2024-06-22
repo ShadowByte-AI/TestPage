@@ -1,0 +1,600 @@
+Uri: https://ajax.googleapis.com/ajax/libs/webfont/1.6.26/webfont.js
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\ajax\libs\webfont\1.6.26\webfont.js
+Content Type: text/javascript
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d2cc2d27b51cf1b517c017_check-form-brix-templates-webflow.svg
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d2cc2d27b51cf1b517c017_check-form-brix-templates-webflow.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d2ce1474942ac2c2d74ff5_webclip-cryptomatic-webflow-ecommerce-template.svg
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d2ce1474942ac2c2d74ff5_webclip-cryptomatic-webflow-ecommerce-template.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d3b6e2829349e93d25309d_block-quote-bg-cryptomatic-webflow-ecommerce-template.jpg
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d3b6e2829349e93d25309d_block-quote-bg-cryptomatic-webflow-ecommerce-template.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d3f75771ab92a1a716ccec_footer-top-gradient-cryptomatic-webflow-ecommerce-template.png
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d3f75771ab92a1a716ccec_footer-top-gradient-cryptomatic-webflow-ecommerce-template.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d3f883de116116f7b31bd5_footer-bottom-gradient-cryptomatic-webflow-ecommerce-template.png
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d3f883de116116f7b31bd5_footer-bottom-gradient-cryptomatic-webflow-ecommerce-template.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d40e4db8b48a6fac052376_footer-bg-shape-cryptomatic-webflow-ecommerce-template-p-1080.png
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d40e4db8b48a6fac052376_footer-bg-shape-cryptomatic-webflow-ecommerce-template-p-1080.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d40e4db8b48a6fac052376_footer-bg-shape-cryptomatic-webflow-ecommerce-template-p-500.png
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d40e4db8b48a6fac052376_footer-bg-shape-cryptomatic-webflow-ecommerce-template-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d40e4db8b48a6fac052376_footer-bg-shape-cryptomatic-webflow-ecommerce-template-p-800.png
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d40e4db8b48a6fac052376_footer-bg-shape-cryptomatic-webflow-ecommerce-template-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d40e4db8b48a6fac052376_footer-bg-shape-cryptomatic-webflow-ecommerce-template.png
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d40e4db8b48a6fac052376_footer-bg-shape-cryptomatic-webflow-ecommerce-template.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d4102d83306ccf7fc8e03d_footer-v2-bg-shape-cryptomatic-webflow-ecommerce-template-p-1080.png
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d4102d83306ccf7fc8e03d_footer-v2-bg-shape-cryptomatic-webflow-ecommerce-template-p-1080.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d4102d83306ccf7fc8e03d_footer-v2-bg-shape-cryptomatic-webflow-ecommerce-template-p-500.png
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d4102d83306ccf7fc8e03d_footer-v2-bg-shape-cryptomatic-webflow-ecommerce-template-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d4102d83306ccf7fc8e03d_footer-v2-bg-shape-cryptomatic-webflow-ecommerce-template-p-800.png
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d4102d83306ccf7fc8e03d_footer-v2-bg-shape-cryptomatic-webflow-ecommerce-template-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d4102d83306ccf7fc8e03d_footer-v2-bg-shape-cryptomatic-webflow-ecommerce-template.png
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d4102d83306ccf7fc8e03d_footer-v2-bg-shape-cryptomatic-webflow-ecommerce-template.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d512580977960d0df28a84_crypto-wallet-from-the-future-image-cryptomatic-webflow-ecommerce-template-p-500.png
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d512580977960d0df28a84_crypto-wallet-from-the-future-image-cryptomatic-webflow-ecommerce-template-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d512580977960d0df28a84_crypto-wallet-from-the-future-image-cryptomatic-webflow-ecommerce-template-p-800.png
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d512580977960d0df28a84_crypto-wallet-from-the-future-image-cryptomatic-webflow-ecommerce-template-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d512580977960d0df28a84_crypto-wallet-from-the-future-image-cryptomatic-webflow-ecommerce-template.png
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d512580977960d0df28a84_crypto-wallet-from-the-future-image-cryptomatic-webflow-ecommerce-template.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d512585148c96c4c5764bd_checkmark-circle-cryptomatic-webflow-ecommerce-template.png
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d512585148c96c4c5764bd_checkmark-circle-cryptomatic-webflow-ecommerce-template.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d51258f053fde7048266dc_bulletproof-security-image-cryptomatic-webflow-ecommerce-template-p-500.png
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d51258f053fde7048266dc_bulletproof-security-image-cryptomatic-webflow-ecommerce-template-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d51258f053fde7048266dc_bulletproof-security-image-cryptomatic-webflow-ecommerce-template.png
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d51258f053fde7048266dc_bulletproof-security-image-cryptomatic-webflow-ecommerce-template.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d51de305adb0e3c913d2cf_charts-and-reports-circle-image-cryptomatic-webflow-ecommerce-template.png
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d51de305adb0e3c913d2cf_charts-and-reports-circle-image-cryptomatic-webflow-ecommerce-template.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d51de38b5b8b51a375978a_send-and-receive-circle-image-cryptomatic-webflow-ecommerce-template.png
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d51de38b5b8b51a375978a_send-and-receive-circle-image-cryptomatic-webflow-ecommerce-template.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d51de3958bb0587e6e8a80_easy-to-create-wallet-circle-image-cryptomatic-webflow-ecommerce-template.png
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d51de3958bb0587e6e8a80_easy-to-create-wallet-circle-image-cryptomatic-webflow-ecommerce-template.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d51de3df0f41b21172d648_earn-passively-circle-image-cryptomatic-webflow-ecommerce-template.png
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d51de3df0f41b21172d648_earn-passively-circle-image-cryptomatic-webflow-ecommerce-template.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d51de486685a77cfc9b5ae_easy-to-create-wallet-image-cryptomatic-webflow-ecommerce-template-p-500.png
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d51de486685a77cfc9b5ae_easy-to-create-wallet-image-cryptomatic-webflow-ecommerce-template-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d51de486685a77cfc9b5ae_easy-to-create-wallet-image-cryptomatic-webflow-ecommerce-template-p-800.png
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d51de486685a77cfc9b5ae_easy-to-create-wallet-image-cryptomatic-webflow-ecommerce-template-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d51de486685a77cfc9b5ae_easy-to-create-wallet-image-cryptomatic-webflow-ecommerce-template.png
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d51de486685a77cfc9b5ae_easy-to-create-wallet-image-cryptomatic-webflow-ecommerce-template.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d52d543c31851dffb94537_cta-card-gradient-bottom-cryptomatic-webflow-ecommerce-template-p-1080.png
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d52d543c31851dffb94537_cta-card-gradient-bottom-cryptomatic-webflow-ecommerce-template-p-1080.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d52d543c31851dffb94537_cta-card-gradient-bottom-cryptomatic-webflow-ecommerce-template-p-1600.png
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d52d543c31851dffb94537_cta-card-gradient-bottom-cryptomatic-webflow-ecommerce-template-p-1600.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d52d543c31851dffb94537_cta-card-gradient-bottom-cryptomatic-webflow-ecommerce-template-p-500.png
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d52d543c31851dffb94537_cta-card-gradient-bottom-cryptomatic-webflow-ecommerce-template-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d52d543c31851dffb94537_cta-card-gradient-bottom-cryptomatic-webflow-ecommerce-template-p-800.png
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d52d543c31851dffb94537_cta-card-gradient-bottom-cryptomatic-webflow-ecommerce-template-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d52d543c31851dffb94537_cta-card-gradient-bottom-cryptomatic-webflow-ecommerce-template.png
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d52d543c31851dffb94537_cta-card-gradient-bottom-cryptomatic-webflow-ecommerce-template.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d52d54bb8a0c9fa25d3a3c_cta-card-gradient-top-cryptomatic-webflow-ecommerce-template-p-1080.png
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d52d54bb8a0c9fa25d3a3c_cta-card-gradient-top-cryptomatic-webflow-ecommerce-template-p-1080.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d52d54bb8a0c9fa25d3a3c_cta-card-gradient-top-cryptomatic-webflow-ecommerce-template-p-1600.png
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d52d54bb8a0c9fa25d3a3c_cta-card-gradient-top-cryptomatic-webflow-ecommerce-template-p-1600.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d52d54bb8a0c9fa25d3a3c_cta-card-gradient-top-cryptomatic-webflow-ecommerce-template-p-500.png
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d52d54bb8a0c9fa25d3a3c_cta-card-gradient-top-cryptomatic-webflow-ecommerce-template-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d52d54bb8a0c9fa25d3a3c_cta-card-gradient-top-cryptomatic-webflow-ecommerce-template-p-800.png
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d52d54bb8a0c9fa25d3a3c_cta-card-gradient-top-cryptomatic-webflow-ecommerce-template-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d52d54bb8a0c9fa25d3a3c_cta-card-gradient-top-cryptomatic-webflow-ecommerce-template.png
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d52d54bb8a0c9fa25d3a3c_cta-card-gradient-top-cryptomatic-webflow-ecommerce-template.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d53335f62d56e2da3e5a36_home-v1-hero-bg-image-cryptomatic-webflow-ecommerce-template-p-1080.jpg
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d53335f62d56e2da3e5a36_home-v1-hero-bg-image-cryptomatic-webflow-ecommerce-template-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d53335f62d56e2da3e5a36_home-v1-hero-bg-image-cryptomatic-webflow-ecommerce-template-p-1600.jpg
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d53335f62d56e2da3e5a36_home-v1-hero-bg-image-cryptomatic-webflow-ecommerce-template-p-1600.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d53335f62d56e2da3e5a36_home-v1-hero-bg-image-cryptomatic-webflow-ecommerce-template-p-2000.jpg
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d53335f62d56e2da3e5a36_home-v1-hero-bg-image-cryptomatic-webflow-ecommerce-template-p-2000.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d53335f62d56e2da3e5a36_home-v1-hero-bg-image-cryptomatic-webflow-ecommerce-template-p-500.jpg
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d53335f62d56e2da3e5a36_home-v1-hero-bg-image-cryptomatic-webflow-ecommerce-template-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d53335f62d56e2da3e5a36_home-v1-hero-bg-image-cryptomatic-webflow-ecommerce-template-p-800.jpg
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d53335f62d56e2da3e5a36_home-v1-hero-bg-image-cryptomatic-webflow-ecommerce-template-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d53335f62d56e2da3e5a36_home-v1-hero-bg-image-cryptomatic-webflow-ecommerce-template.jpg
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d53335f62d56e2da3e5a36_home-v1-hero-bg-image-cryptomatic-webflow-ecommerce-template.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d539504d98654e1c7fa66f_create-an-account-circle-icon-cryptomatic-webflow-ecommerce-template.png
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d539504d98654e1c7fa66f_create-an-account-circle-icon-cryptomatic-webflow-ecommerce-template.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d53eb598b008ed6d400668_how-does-cryptomatic-app-work-cryptomatic-webflow-ecommerce-template.png
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d53eb598b008ed6d400668_how-does-cryptomatic-app-work-cryptomatic-webflow-ecommerce-template.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d5415868542fdd521037bc_accordion-card-bg-top-cryptomatic-webflow-ecommerce-template-p-1080.png
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d5415868542fdd521037bc_accordion-card-bg-top-cryptomatic-webflow-ecommerce-template-p-1080.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d5415868542fdd521037bc_accordion-card-bg-top-cryptomatic-webflow-ecommerce-template-p-1600.png
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d5415868542fdd521037bc_accordion-card-bg-top-cryptomatic-webflow-ecommerce-template-p-1600.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d5415868542fdd521037bc_accordion-card-bg-top-cryptomatic-webflow-ecommerce-template-p-500.png
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d5415868542fdd521037bc_accordion-card-bg-top-cryptomatic-webflow-ecommerce-template-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d5415868542fdd521037bc_accordion-card-bg-top-cryptomatic-webflow-ecommerce-template-p-800.png
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d5415868542fdd521037bc_accordion-card-bg-top-cryptomatic-webflow-ecommerce-template-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d5415868542fdd521037bc_accordion-card-bg-top-cryptomatic-webflow-ecommerce-template.png
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d5415868542fdd521037bc_accordion-card-bg-top-cryptomatic-webflow-ecommerce-template.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d54158dbdefa39e707b05c_accordion-card-bg-bottom-cryptomatic-webflow-ecommerce-template-p-1080.png
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d54158dbdefa39e707b05c_accordion-card-bg-bottom-cryptomatic-webflow-ecommerce-template-p-1080.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d54158dbdefa39e707b05c_accordion-card-bg-bottom-cryptomatic-webflow-ecommerce-template-p-1600.png
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d54158dbdefa39e707b05c_accordion-card-bg-bottom-cryptomatic-webflow-ecommerce-template-p-1600.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d54158dbdefa39e707b05c_accordion-card-bg-bottom-cryptomatic-webflow-ecommerce-template-p-500.png
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d54158dbdefa39e707b05c_accordion-card-bg-bottom-cryptomatic-webflow-ecommerce-template-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d54158dbdefa39e707b05c_accordion-card-bg-bottom-cryptomatic-webflow-ecommerce-template-p-800.png
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d54158dbdefa39e707b05c_accordion-card-bg-bottom-cryptomatic-webflow-ecommerce-template-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d54158dbdefa39e707b05c_accordion-card-bg-bottom-cryptomatic-webflow-ecommerce-template.png
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d54158dbdefa39e707b05c_accordion-card-bg-bottom-cryptomatic-webflow-ecommerce-template.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d547f333ff156ff5e8933a_lily-woods-avatar-cryptomatic-webflow-ecommerce-template.jpg
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d547f333ff156ff5e8933a_lily-woods-avatar-cryptomatic-webflow-ecommerce-template.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d547f36e40e606fded8f6c_matt-cannon-avatar-cryptomatic-webflow-ecommerce-template.jpg
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d547f36e40e606fded8f6c_matt-cannon-avatar-cryptomatic-webflow-ecommerce-template.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d547f3824dea1b6ce072c7_sophie-moore-avatar-cryptomatic-webflow-ecommerce-template.jpg
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d547f3824dea1b6ce072c7_sophie-moore-avatar-cryptomatic-webflow-ecommerce-template.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d547f38eac42252ae6143a_john-carter-avatar-cryptomatic-webflow-ecommerce-template.jpg
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d547f38eac42252ae6143a_john-carter-avatar-cryptomatic-webflow-ecommerce-template.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d54e8664f56aacaf5cb795_testimonial-card-bg-gradient-cryptomatic-webflow-ecommerce-template-p-1080.png
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d54e8664f56aacaf5cb795_testimonial-card-bg-gradient-cryptomatic-webflow-ecommerce-template-p-1080.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d54e8664f56aacaf5cb795_testimonial-card-bg-gradient-cryptomatic-webflow-ecommerce-template-p-500.png
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d54e8664f56aacaf5cb795_testimonial-card-bg-gradient-cryptomatic-webflow-ecommerce-template-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d54e8664f56aacaf5cb795_testimonial-card-bg-gradient-cryptomatic-webflow-ecommerce-template-p-800.png
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d54e8664f56aacaf5cb795_testimonial-card-bg-gradient-cryptomatic-webflow-ecommerce-template-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d54e8664f56aacaf5cb795_testimonial-card-bg-gradient-cryptomatic-webflow-ecommerce-template.png
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d54e8664f56aacaf5cb795_testimonial-card-bg-gradient-cryptomatic-webflow-ecommerce-template.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d6542811d888a1a55f882a_floating-bg-shape-10-cryptomatic-webflow-eocmmerce-template-p-1080.jpg
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d6542811d888a1a55f882a_floating-bg-shape-10-cryptomatic-webflow-eocmmerce-template-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d6542811d888a1a55f882a_floating-bg-shape-10-cryptomatic-webflow-eocmmerce-template-p-500.jpg
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d6542811d888a1a55f882a_floating-bg-shape-10-cryptomatic-webflow-eocmmerce-template-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d6542811d888a1a55f882a_floating-bg-shape-10-cryptomatic-webflow-eocmmerce-template-p-800.jpg
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d6542811d888a1a55f882a_floating-bg-shape-10-cryptomatic-webflow-eocmmerce-template-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d6542811d888a1a55f882a_floating-bg-shape-10-cryptomatic-webflow-eocmmerce-template.jpg
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d6542811d888a1a55f882a_floating-bg-shape-10-cryptomatic-webflow-eocmmerce-template.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d65428260716741cd09fdd_floating-bg-shape-5-cryptomatic-webflow-eocmmerce-template-p-500.jpg
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d65428260716741cd09fdd_floating-bg-shape-5-cryptomatic-webflow-eocmmerce-template-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d65428260716741cd09fdd_floating-bg-shape-5-cryptomatic-webflow-eocmmerce-template-p-800.jpg
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d65428260716741cd09fdd_floating-bg-shape-5-cryptomatic-webflow-eocmmerce-template-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d65428260716741cd09fdd_floating-bg-shape-5-cryptomatic-webflow-eocmmerce-template.jpg
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d65428260716741cd09fdd_floating-bg-shape-5-cryptomatic-webflow-eocmmerce-template.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d65428260716741cd0a02c_floating-bg-shape-1-cryptomatic-webflow-eocmmerce-template-p-500.jpg
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d65428260716741cd0a02c_floating-bg-shape-1-cryptomatic-webflow-eocmmerce-template-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d65428260716741cd0a02c_floating-bg-shape-1-cryptomatic-webflow-eocmmerce-template.jpg
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d65428260716741cd0a02c_floating-bg-shape-1-cryptomatic-webflow-eocmmerce-template.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d6542870a418ff73139219_floating-bg-shape-2-cryptomatic-webflow-eocmmerce-template-p-500.jpg
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d6542870a418ff73139219_floating-bg-shape-2-cryptomatic-webflow-eocmmerce-template-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d6542870a418ff73139219_floating-bg-shape-2-cryptomatic-webflow-eocmmerce-template.jpg
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d6542870a418ff73139219_floating-bg-shape-2-cryptomatic-webflow-eocmmerce-template.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d65428900750b4b9978cbb_floating-bg-shape-12-cryptomatic-webflow-eocmmerce-template-p-500.jpg
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d65428900750b4b9978cbb_floating-bg-shape-12-cryptomatic-webflow-eocmmerce-template-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d65428900750b4b9978cbb_floating-bg-shape-12-cryptomatic-webflow-eocmmerce-template-p-800.jpg
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d65428900750b4b9978cbb_floating-bg-shape-12-cryptomatic-webflow-eocmmerce-template-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64d65428900750b4b9978cbb_floating-bg-shape-12-cryptomatic-webflow-eocmmerce-template.jpg
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d65428900750b4b9978cbb_floating-bg-shape-12-cryptomatic-webflow-eocmmerce-template.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64da562dc06e4f6ebe5d6ccd_integrations-3-col-card-bg-top-cryptomatic-webflow-ecommerce-template.png
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64da562dc06e4f6ebe5d6ccd_integrations-3-col-card-bg-top-cryptomatic-webflow-ecommerce-template.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64dabf1c2cbaa0ccc113af0f_floating-bg-shape-8-cryptomatic-webflow-ecommerce-template-p-500.jpg
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64dabf1c2cbaa0ccc113af0f_floating-bg-shape-8-cryptomatic-webflow-ecommerce-template-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64dabf1c2cbaa0ccc113af0f_floating-bg-shape-8-cryptomatic-webflow-ecommerce-template-p-800.jpg
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64dabf1c2cbaa0ccc113af0f_floating-bg-shape-8-cryptomatic-webflow-ecommerce-template-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64dabf1c2cbaa0ccc113af0f_floating-bg-shape-8-cryptomatic-webflow-ecommerce-template.jpg
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64dabf1c2cbaa0ccc113af0f_floating-bg-shape-8-cryptomatic-webflow-ecommerce-template.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64dac10253174334f9c8d1ec_floating-bg-shape-4-cryptomatic-webflow-ecommerce-template.jpg
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64dac10253174334f9c8d1ec_floating-bg-shape-4-cryptomatic-webflow-ecommerce-template.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64dac1025a656289b4294717_floating-bg-shape-11-cryptomatic-webflow-ecommerce-template.jpg
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64dac1025a656289b4294717_floating-bg-shape-11-cryptomatic-webflow-ecommerce-template.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64dac102a104772856095c33_floating-bg-shape-7-cryptomatic-webflow-ecommerce-template.jpg
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64dac102a104772856095c33_floating-bg-shape-7-cryptomatic-webflow-ecommerce-template.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64dac102a42ae2376f84fd1d_floating-bg-shape-6-cryptomatic-webflow-ecommerce-template.jpg
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64dac102a42ae2376f84fd1d_floating-bg-shape-6-cryptomatic-webflow-ecommerce-template.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64dac102eb9789e6c7dbb45d_floating-bg-shape-3-cryptomatic-webflow-ecommerce-template-p-500.jpg
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64dac102eb9789e6c7dbb45d_floating-bg-shape-3-cryptomatic-webflow-ecommerce-template-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64dac102eb9789e6c7dbb45d_floating-bg-shape-3-cryptomatic-webflow-ecommerce-template.jpg
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64dac102eb9789e6c7dbb45d_floating-bg-shape-3-cryptomatic-webflow-ecommerce-template.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64dac103d8d3e5263239bda2_floating-bg-shape-9-cryptomatic-webflow-ecommerce-template-p-500.jpg
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64dac103d8d3e5263239bda2_floating-bg-shape-9-cryptomatic-webflow-ecommerce-template-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64dac103d8d3e5263239bda2_floating-bg-shape-9-cryptomatic-webflow-ecommerce-template-p-800.jpg
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64dac103d8d3e5263239bda2_floating-bg-shape-9-cryptomatic-webflow-ecommerce-template-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64dac103d8d3e5263239bda2_floating-bg-shape-9-cryptomatic-webflow-ecommerce-template.jpg
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64dac103d8d3e5263239bda2_floating-bg-shape-9-cryptomatic-webflow-ecommerce-template.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64e77573747e424b22fb5626_whats-included-card-bg-cryptomatic-webflow-ecommerce-template.png
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64e77573747e424b22fb5626_whats-included-card-bg-cryptomatic-webflow-ecommerce-template.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64e778705895f76a8492dd5a_figma-file-card-bg-gradient-cryptomatic-webflow-ecommerce-template.png
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64e778705895f76a8492dd5a_figma-file-card-bg-gradient-cryptomatic-webflow-ecommerce-template.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64e77ec6db321e7bbbfc4c0a_more-webflow-templates-bg-cryptomatic-webflow-ecommerce-template.png
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64e77ec6db321e7bbbfc4c0a_more-webflow-templates-bg-cryptomatic-webflow-ecommerce-template.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64e788b699c70a531d66ceed_sales-home-card-title-bg-cryptomatic-webflow-ecommerce-template.png
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64e788b699c70a531d66ceed_sales-home-card-title-bg-cryptomatic-webflow-ecommerce-template.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64e79473702a3806d8cf7f09_browse-all-templates-card-bg-cryptomatic-webflow-ecommerce-template.jpg
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64e79473702a3806d8cf7f09_browse-all-templates-card-bg-cryptomatic-webflow-ecommerce-template.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64e79473fe0b5d0d5198ccb4_buy-on-webflow-card-bg-cryptomatic-webflow-ecommerce-template.jpg
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64e79473fe0b5d0d5198ccb4_buy-on-webflow-card-bg-cryptomatic-webflow-ecommerce-template.jpg
+Content Type: image/jpeg
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64e7eb2ae776de1b27a4a300_features-card-bg-bottom-cryptomatic-webflow-ecommerce-template-p-1080.png
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64e7eb2ae776de1b27a4a300_features-card-bg-bottom-cryptomatic-webflow-ecommerce-template-p-1080.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64e7eb2ae776de1b27a4a300_features-card-bg-bottom-cryptomatic-webflow-ecommerce-template-p-1600.png
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64e7eb2ae776de1b27a4a300_features-card-bg-bottom-cryptomatic-webflow-ecommerce-template-p-1600.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64e7eb2ae776de1b27a4a300_features-card-bg-bottom-cryptomatic-webflow-ecommerce-template-p-500.png
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64e7eb2ae776de1b27a4a300_features-card-bg-bottom-cryptomatic-webflow-ecommerce-template-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64e7eb2ae776de1b27a4a300_features-card-bg-bottom-cryptomatic-webflow-ecommerce-template-p-800.png
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64e7eb2ae776de1b27a4a300_features-card-bg-bottom-cryptomatic-webflow-ecommerce-template-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64e7eb2ae776de1b27a4a300_features-card-bg-bottom-cryptomatic-webflow-ecommerce-template.png
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64e7eb2ae776de1b27a4a300_features-card-bg-bottom-cryptomatic-webflow-ecommerce-template.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64e7eb2aef37364669954a14_features-card-bg-top-cryptomatic-webflow-ecommerce-template-p-1080.png
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64e7eb2aef37364669954a14_features-card-bg-top-cryptomatic-webflow-ecommerce-template-p-1080.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64e7eb2aef37364669954a14_features-card-bg-top-cryptomatic-webflow-ecommerce-template-p-1600.png
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64e7eb2aef37364669954a14_features-card-bg-top-cryptomatic-webflow-ecommerce-template-p-1600.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64e7eb2aef37364669954a14_features-card-bg-top-cryptomatic-webflow-ecommerce-template-p-500.png
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64e7eb2aef37364669954a14_features-card-bg-top-cryptomatic-webflow-ecommerce-template-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64e7eb2aef37364669954a14_features-card-bg-top-cryptomatic-webflow-ecommerce-template-p-800.png
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64e7eb2aef37364669954a14_features-card-bg-top-cryptomatic-webflow-ecommerce-template-p-800.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64e7eb2aef37364669954a14_features-card-bg-top-cryptomatic-webflow-ecommerce-template.png
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64e7eb2aef37364669954a14_features-card-bg-top-cryptomatic-webflow-ecommerce-template.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/64ee44f9a8a7d2975c808651_favicon-cryptomatic-webflow-ecommerce-template.png
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64ee44f9a8a7d2975c808651_favicon-cryptomatic-webflow-ecommerce-template.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/6553d42c072f656e014f1b38_application-logo-cryptomatic-x-webflow-template.svg
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\6553d42c072f656e014f1b38_application-logo-cryptomatic-x-webflow-template.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/6553d42c7378bad63622b778_company-logo-cryptomatic-x-webflow-template.svg
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\6553d42c7378bad63622b778_company-logo-cryptomatic-x-webflow-template.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/6553d42c7c85cea131ec2c21_enterprise-logo-cryptomatic-x-webflow-template.svg
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\6553d42c7c85cea131ec2c21_enterprise-logo-cryptomatic-x-webflow-template.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/6553d42c8a63664d148a7d4f_institute-logo-cryptomatic-x-webflow-template.svg
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\6553d42c8a63664d148a7d4f_institute-logo-cryptomatic-x-webflow-template.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/6553d42c8d118ba8e5cc12a3_startup-logo-cryptomatic-x-webflow-template.svg
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\6553d42c8d118ba8e5cc12a3_startup-logo-cryptomatic-x-webflow-template.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/6553d42c8f2a09018783e478_agency-logo-cryptomatic-x-webflow-template.svg
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\6553d42c8f2a09018783e478_agency-logo-cryptomatic-x-webflow-template.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/6553d42d3a78960993d0cf93_organization-logo-cryptomatic-x-webflow-template.svg
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\6553d42d3a78960993d0cf93_organization-logo-cryptomatic-x-webflow-template.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/6553d42dbbe02d6bf3471d07_business-logo-cryptomatic-x-webflow-template.svg
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\6553d42dbbe02d6bf3471d07_business-logo-cryptomatic-x-webflow-template.svg
+Content Type: image/svg+xml
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/65e605e1ae2740466a20ac50_webflow-logo.png
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\65e605e1ae2740466a20ac50_webflow-logo.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/6616b1c13ffb5841a23a15ea_logo-cryptoverse-x-webflow-template-p-500.png
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\6616b1c13ffb5841a23a15ea_logo-cryptoverse-x-webflow-template-p-500.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/6616b1c13ffb5841a23a15ea_logo-cryptoverse-x-webflow-template.png
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\6616b1c13ffb5841a23a15ea_logo-cryptoverse-x-webflow-template.png
+Content Type: image/png
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/css/cryptoversetemplate.webflow.817709169.css
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\css\cryptoversetemplate.webflow.817709169.css
+Content Type: text/css
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c011/js/webflow.5ba5dd596.js
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\js\webflow.5ba5dd596.js
+Content Type: text/javascript
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c058/64e3bc5e1a7dcf1cadcefa4e_ethereum-tokens-2025-blog-thumbnail-v1-cryptomatic-webflow-ecommerce-template-p-1080.jpg
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c058\64e3bc5e1a7dcf1cadcefa4e_ethereum-tokens-2025-blog-thumbnail-v1-cryptomatic-webflow-ecommerce-template-p-1080.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c058/64e3bc5e1a7dcf1cadcefa4e_ethereum-tokens-2025-blog-thumbnail-v1-cryptomatic-webflow-ecommerce-template-p-500.jpg
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c058\64e3bc5e1a7dcf1cadcefa4e_ethereum-tokens-2025-blog-thumbnail-v1-cryptomatic-webflow-ecommerce-template-p-500.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c058/64e3bc5e1a7dcf1cadcefa4e_ethereum-tokens-2025-blog-thumbnail-v1-cryptomatic-webflow-ecommerce-template-p-800.jpg
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c058\64e3bc5e1a7dcf1cadcefa4e_ethereum-tokens-2025-blog-thumbnail-v1-cryptomatic-webflow-ecommerce-template-p-800.jpg
+Content Type: image/jpg
+
+Uri: https://assets-global.website-files.com/64d2cc2d27b51cf1b517c058/64e3bc5e1a7dcf1cadcefa4e_ethereum-tokens-2025-blog-thumbnail-v1-cryptomatic-webflow-ecommerce-template.jpg
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c058\64e3bc5e1a7dcf1cadcefa4e_ethereum-tokens-2025-blog-thumbnail-v1-cryptomatic-webflow-ecommerce-template.jpg
+Content Type: image/jpeg
+
+Uri: https://assets.website-files.com/64d2cc2d27b51cf1b517c011/64d2cc2d27b51cf1b517c023_line-square-icons.eot
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d2cc2d27b51cf1b517c023_line-square-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://assets.website-files.com/64d2cc2d27b51cf1b517c011/64d2cc2d27b51cf1b517c024_line-square-icons.woff
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d2cc2d27b51cf1b517c024_line-square-icons.woff
+Content Type: application/x-font-woff
+
+Uri: https://assets.website-files.com/64d2cc2d27b51cf1b517c011/64d2cc2d27b51cf1b517c02c_line-rounded-icons.woff
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d2cc2d27b51cf1b517c02c_line-rounded-icons.woff
+Content Type: application/x-font-woff
+
+Uri: https://assets.website-files.com/64d2cc2d27b51cf1b517c011/64d2cc2d27b51cf1b517c02e_line-rounded-icons.svg
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d2cc2d27b51cf1b517c02e_line-rounded-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/64d2cc2d27b51cf1b517c011/64d2cc2d27b51cf1b517c02f_line-square-icons.woff2
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d2cc2d27b51cf1b517c02f_line-square-icons.woff2
+Content Type: application/octet-stream
+
+Uri: https://assets.website-files.com/64d2cc2d27b51cf1b517c011/64d2cc2d27b51cf1b517c030_line-square-icons.ttf
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d2cc2d27b51cf1b517c030_line-square-icons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://assets.website-files.com/64d2cc2d27b51cf1b517c011/64d2cc2d27b51cf1b517c032_social-icon-font.woff2
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d2cc2d27b51cf1b517c032_social-icon-font.woff2
+Content Type: application/octet-stream
+
+Uri: https://assets.website-files.com/64d2cc2d27b51cf1b517c011/64d2cc2d27b51cf1b517c033_line-square-icons.svg
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d2cc2d27b51cf1b517c033_line-square-icons.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/64d2cc2d27b51cf1b517c011/64d2cc2d27b51cf1b517c03f_line-rounded-icons.ttf
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d2cc2d27b51cf1b517c03f_line-rounded-icons.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://assets.website-files.com/64d2cc2d27b51cf1b517c011/64d2cc2d27b51cf1b517c041_social-icon-font.eot
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d2cc2d27b51cf1b517c041_social-icon-font.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://assets.website-files.com/64d2cc2d27b51cf1b517c011/64d2cc2d27b51cf1b517c043_line-rounded-icons.eot
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d2cc2d27b51cf1b517c043_line-rounded-icons.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://assets.website-files.com/64d2cc2d27b51cf1b517c011/64d2cc2d27b51cf1b517c044_filled-icon-font.svg
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d2cc2d27b51cf1b517c044_filled-icon-font.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/64d2cc2d27b51cf1b517c011/64d2cc2d27b51cf1b517c046_social-icon-font.woff
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d2cc2d27b51cf1b517c046_social-icon-font.woff
+Content Type: application/x-font-woff
+
+Uri: https://assets.website-files.com/64d2cc2d27b51cf1b517c011/64d2cc2d27b51cf1b517c048_line-rounded-icons.woff2
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d2cc2d27b51cf1b517c048_line-rounded-icons.woff2
+Content Type: application/octet-stream
+
+Uri: https://assets.website-files.com/64d2cc2d27b51cf1b517c011/64d2cc2d27b51cf1b517c050_filled-icon-font.woff2
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d2cc2d27b51cf1b517c050_filled-icon-font.woff2
+Content Type: application/octet-stream
+
+Uri: https://assets.website-files.com/64d2cc2d27b51cf1b517c011/64d2cc2d27b51cf1b517c060_filled-icon-font.ttf
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d2cc2d27b51cf1b517c060_filled-icon-font.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://assets.website-files.com/64d2cc2d27b51cf1b517c011/64d2cc2d27b51cf1b517c064_social-icon-font.svg
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d2cc2d27b51cf1b517c064_social-icon-font.svg
+Content Type: image/svg+xml
+
+Uri: https://assets.website-files.com/64d2cc2d27b51cf1b517c011/64d2cc2d27b51cf1b517c066_filled-icon-font.woff
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d2cc2d27b51cf1b517c066_filled-icon-font.woff
+Content Type: application/x-font-woff
+
+Uri: https://assets.website-files.com/64d2cc2d27b51cf1b517c011/64d2cc2d27b51cf1b517c06a_filled-icon-font.eot
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d2cc2d27b51cf1b517c06a_filled-icon-font.eot
+Content Type: application/vnd.ms-fontobject
+
+Uri: https://assets.website-files.com/64d2cc2d27b51cf1b517c011/64d2cc2d27b51cf1b517c06b_social-icon-font.ttf
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d2cc2d27b51cf1b517c06b_social-icon-font.ttf
+Content Type: application/x-font-ttf
+
+Uri: https://assets.website-files.com/64d2cc2d27b51cf1b517c011/64d2d1d40d909dfb26689715_Objectivity-Medium.woff
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d2d1d40d909dfb26689715_Objectivity-Medium.woff
+Content Type: application/x-font-woff
+
+Uri: https://assets.website-files.com/64d2cc2d27b51cf1b517c011/64d2d1d489d11bde4ecd1e42_Objectivity-Regular.woff
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d2d1d489d11bde4ecd1e42_Objectivity-Regular.woff
+Content Type: application/x-font-woff
+
+Uri: https://assets.website-files.com/64d2cc2d27b51cf1b517c011/64d2d1d4f944bdf54b96d523_Objectivity-Bold.woff
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\64d2cc2d27b51cf1b517c011\64d2d1d4f944bdf54b96d523_Objectivity-Bold.woff
+Content Type: application/x-font-woff
+
+Uri: https://cryptoversetemplate.webflow.io/home-pages/home-v1
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\home-pages\home-v1.html
+Content Type: text/html
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/js/jquery-3.5.1.min.dc5e7f18c8.js?site=64d2cc2d27b51cf1b517c011
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\js\jquery-3.5.1.min.dc5e7f18c8.js
+Content Type: application/javascript
+
+Uri: https://d3e54v103j8qbb.cloudfront.net/static/custom-checkbox-checkmark.589d534424.svg
+File Name: C:\Downloaded Web Sites\cryptoversetemplate.webflow.io\static\custom-checkbox-checkmark.589d534424.svg
+Content Type: image/svg+xml
+
